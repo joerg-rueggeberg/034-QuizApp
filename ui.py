@@ -13,7 +13,7 @@ class Interface:
         self.quiz = quiz_brain
 
         self.window = Tk()
-        self.window.title("Open Trivia DB Quiz (Sinclair)")
+        self.window.title("Open Trivia DB Quiz (Jörg)")
         self.window.config(padx=20, pady=20, background=THEME_COLOR_BG)
 
         # CANVAS
